@@ -13,4 +13,4 @@ See [this article from Verisign](https://www.verisign.com/en_US/website-presence
 
 ## IntelliJ...issues
 
-- non-enterprise version doesn't recognize `.gsp` file extension. Set it to treat that like Groovy so we'll see how that works.
+- non-enterprise version doesn't recognize `.gsp` file extension. Set it to treat that like Groovy so we'll see how that works...Probably should have set it to html instead since DumbJ keeps flagging all the HTML syntax with warnings and errors.
