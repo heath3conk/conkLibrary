@@ -1,5 +1,9 @@
 ## conkLibrary
-second run-through of Grails tutorial, changing vehicles to books (naturally)
+second run-through of [Grails tutorial](http://guides.grails.org/creating-your-first-grails-app/guide/index.html), changing vehicles to books (naturally)
+
+- **Vehicle = Book**
+- **Model = Author**
+- **Make = Genre**
 
 ## mySQL
 
